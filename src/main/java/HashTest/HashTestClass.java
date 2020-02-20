@@ -12,7 +12,7 @@ package HashTest;
 public class HashTestClass {
     public static void main(String[] args){
         System.out.println("This is jonathans Hash Test file");
-        System.out.println("Johnny was here");
+        System.out.println("Johnny was hexxxre");
     }
     
 }
